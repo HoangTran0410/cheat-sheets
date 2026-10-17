@@ -148,3 +148,8 @@ document
 
 // Initialize the page
 renderPdfList();
+
+// Hide the AIO Desktop link when embedded (e.g. inside AIO Desktop itself)
+if (window.self !== window.top) {
+  document.querySelectorAll(".aio-desktop-link").forEach((el) => el.remove());
+}

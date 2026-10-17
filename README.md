@@ -1,5 +1,9 @@
 # Cheat Sheets Collection 📚
 
+<!-- aio-desktop-badge:start -->
+[![AIO Desktop](https://img.shields.io/badge/Try-AIO_Desktop-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fbaio.org/#/desktop)
+<!-- aio-desktop-badge:end -->
+
 A comprehensive collection of cheat sheets for cybersecurity, certifications, programming, and various tools.
 
 ## Features
@@ -86,3 +90,10 @@ cheat-sheets/
 ## License
 
 MIT
+
+<!-- aio-desktop:start -->
+### 🖥️ AIO Desktop
+
+**EN:** Find this tool and many more free tools & games in **[AIO Desktop](https://fbaio.org/#/desktop)**, a Windows/macOS-style web desktop by Social AIO. [▶ Open AIO Desktop](https://fbaio.org/#/desktop)
+**VI:** Xem công cụ này cùng nhiều công cụ, trò chơi miễn phí khác trong **[AIO Desktop](https://fbaio.org/#/desktop)**, màn kiểu Windows/macOS của Social AIO. [▶ Mở AIO Desktop](https://fbaio.org/#/desktop)
+<!-- aio-desktop:end -->

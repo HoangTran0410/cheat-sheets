@@ -572,6 +572,17 @@ body {
   animation: blink 2s ease-in-out infinite;
 }
 
+.aio-desktop-link {
+  text-decoration: none;
+  animation: none;
+  opacity: 0.8;
+}
+
+.aio-desktop-link:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
 @keyframes blink {
   0%,
   100% {
